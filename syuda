@@ -1,7 +1,8 @@
 333074
-print ( 3 - 57900 ) |||  print ( 5 - 198 )
-print ( 6 - 42 )
-print ( 7 - 64 )
-print ( 8 - 26001 )
-print ( 2 - xwyz )
-print ( 4 - 13 )
+print (3-57900) |||  print (5-198)
+print (6-42)    |||  print (9-18)
+print (7-64)    |||  print (1-32)
+print (8-26001)
+print (2-xwyz)
+print (4-13)
+print (
